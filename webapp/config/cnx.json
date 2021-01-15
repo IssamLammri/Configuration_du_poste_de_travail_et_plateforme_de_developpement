@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "myDb": "Server=WINDEV2012EVAL\\SQLEXPRESS;Database=DBSecondApp;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
